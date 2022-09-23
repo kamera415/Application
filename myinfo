@@ -1,3 +1,7 @@
 Hello
+<<<<<<< HEAD
 my name is developer
-i am from hyderabad
+
+=======
+i am from bangalore
+>>>>>>> test
